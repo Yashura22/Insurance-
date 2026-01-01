@@ -53,7 +53,7 @@ The **Insurance Data Analysis** project analyzes policy and transaction data fro
 
 ### 🔹 Power BI Dashboard
 
-[Power BI Dashboard](screenshots/powerbi_dashboard.png)
+[Power BI Dashboard](https://github.com/Yashura22/Insurance-/blob/main/Insurance.png)
 
 
  📈 Key Highlights
